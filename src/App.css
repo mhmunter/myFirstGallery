@@ -1,0 +1,64 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #058ED9;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #483D3F;
+}
+
+.App-link {
+  color: #F4EBD9;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+
+
+/* CSV
+483d3f,058ed9,f4ebd9,a39a92,77685d
+
+/* With # */
+/* #483d3f, #058ed9, #f4ebd9, #a39a92, #77685d */
+
+/* Array */
+/* ["483d3f","058ed9","f4ebd9","a39a92","77685d"] */
+
+/* Object */
+/* {"Black Coffee":"483d3f","Green Blue Crayola":"058ed9","Eggshell":"f4ebd9","Grullo":"a39a92","Umber":"77685d"} */
+
+/* Extended Array */
+/* [{"name":"Black Coffee","hex":"483d3f","rgb":[72,61,63],"cmyk":[0,15,12,72],"hsb":[349,15,28],"hsl":[349,8,26],"lab":[27,5,1]},{"name":"Green Blue Crayola","hex":"058ed9","rgb":[5,142,217],"cmyk":[98,35,0,15],"hsb":[201,98,85],"hsl":[201,95,44],"lab":[56,-4,-47]},{"name":"Eggshell","hex":"f4ebd9","rgb":[244,235,217],"cmyk":[0,4,11,4],"hsb":[40,11,96],"hsl":[40,55,90],"lab":[93,0,10]},{"name":"Grullo","hex":"a39a92","rgb":[163,154,146],"cmyk":[0,6,10,36],"hsb":[28,10,64],"hsl":[28,8,61],"lab":[64,2,5]},{"name":"Umber","hex":"77685d","rgb":[119,104,93],"cmyk":[0,13,22,53],"hsb":[25,22,47],"hsl":[25,12,42],"lab":[45,4,8]}] */
+
+/* XML */
+/* <palette>
+  <color name="Black Coffee" hex="483d3f" r="72" g="61" b="63" />
+  <color name="Green Blue Crayola" hex="058ed9" r="5" g="142" b="217" />
+  <color name="Eggshell" hex="f4ebd9" r="244" g="235" b="217" />
+  <color name="Grullo" hex="a39a92" r="163" g="154" b="146" />
+  <color name="Umber" hex="77685d" r="119" g="104" b="93" />
+</palette> */ 
