@@ -18,7 +18,7 @@ function Navigation({setPage}) {
           </li>
           <li className="mx-2">
             <a data-testid="form" href="#form" onClick={() => setPage("form")}>
-            Form
+            Contact Me
             </a>
           </li>
         </ul>

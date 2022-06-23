@@ -37,7 +37,25 @@
   }
 }
 
+/*mid images*/
+.hero img{
+  background-size: cover;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  height: 400px;
+  width: 30%;
+  z-index: 1;
+  background-repeat: no-repeat;
+}
 
+.hero{
+display: flex;
+height:100%;
+width: 100%;
+background-color: lightblue;
+justify-content: space-between;
+}
 
 /* CSV
 483d3f,058ed9,f4ebd9,a39a92,77685d

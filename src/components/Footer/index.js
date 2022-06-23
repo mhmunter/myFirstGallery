@@ -1,10 +1,10 @@
 import React from 'react'
 
-function Footer(){
+function Footer({name}){
 
 return (
     <div>
-        <h1>Footer</h1>
+        <h1>Footer {name}</h1>
     </div>
 )
 }

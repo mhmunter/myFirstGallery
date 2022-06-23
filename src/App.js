@@ -10,10 +10,12 @@ import Projects from './components/Projects';
 
 function App() {
   const [page, setPage] = useState("home")
+  const [name, setName] = useState("name")
   function displayPage(){
     if (page === "home"){
       return < Home />
       }else if(page === "projects"){
+        console.log("hello")
         return < Projects />
       }else if(page === "form"){
         return <Form />
@@ -22,9 +24,9 @@ function App() {
   return (
     <div className="App">
       <Navigation setPage={setPage} />
-
+      <input value = {name} onChange = {e =>setName(e.target.value)}></input> 
     {displayPage()}
-    <Footer />
+    <Footer name = {name}/>
     </div>
   );
 }
