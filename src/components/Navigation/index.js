@@ -7,7 +7,7 @@ function Navigation({setPage}) {
       <nav>
         <ul className="flex-row">
           <li className="mx-2">
-            <a data-testid="about" href="#about" onClick={() => setPage("home")}>
+            <a data-testid="about" href="#about" onClick={() => setPage("AboutMe")}>
               About me
             </a>
           </li>
@@ -19,6 +19,11 @@ function Navigation({setPage}) {
           <li className="mx-2">
             <a data-testid="form" href="#form" onClick={() => setPage("form")}>
             Contact Me
+            </a>
+          </li>
+          <li className="mx-2">
+            <a data-testid="resume" href="#resume" onClick={() => setPage("resume")}>
+              Resume
             </a>
           </li>
         </ul>
