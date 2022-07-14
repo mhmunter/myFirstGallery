@@ -29,6 +29,14 @@ return (
         </img>
         </a>
       </article>
+
+      <article className="grow" id="p2">
+      <a href="https://immense-ocean-63778.herokuapp.com/">
+        
+        <img src={require("../../image/projectThree.png")} alt="group project 2" style={smallimg}>
+        </img>
+        </a>
+      </article>
   </section>
   </div>
 );
