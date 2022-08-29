@@ -3,32 +3,35 @@ import React from 'react'
 function Navigation({setPage}) {
 
   return (
-    <header className="flex-row px-1">
+    
+    <header className="footer">
+      
       <nav>
-        <ul className="flex-row">
-          <li className="mx-2">
+        <ul className="flex-row" >
+          <lu className="mx-2">
             <a data-testid="about" href="#about" onClick={() => setPage("AboutMe")}>
               About me
             </a>
-          </li>
-          <li className="mx-2">
+          </lu>
+          <lu className="mx-2" id='one'>
             <a data-testid="projects" href="#projects" onClick={() => setPage("projects")}>
             Projects
             </a>
-          </li>
-          <li className="mx-2">
-            <a data-testid="form" href="#form" onClick={() => setPage("form")}>
-            Contact Me
-            </a>
-          </li>
-          <li className="mx-2">
+          </lu>
+          <lu className="mx-2" id='one'>
             <a data-testid="resume" href="#resume" onClick={() => setPage("resume")}>
               Resume
             </a>
-          </li>
+          </lu>
+          <lu className="mx-2" id='one'>
+            <a data-testid="home" href="#home" onClick={() => setPage("home")}>
+             Home
+            </a>
+          </lu>
         </ul>
         
       </nav>
+      
     </header>
   )
 }

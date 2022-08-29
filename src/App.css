@@ -23,7 +23,9 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+body{
+  background-color: lightblue;
+}
 .App-header {
   background-color: #058ED9;
   min-height: 100vh;
@@ -86,7 +88,7 @@ font-size: larger;
   display: flex;
   align-items: center;
   justify-content: space-around;
-  padding: 30px;
+  padding: 30px 35px;
   border-top: 1px solid rgb(97, 95, 95);
 }
 
@@ -96,12 +98,41 @@ font-size: larger;
 }
 
 .grow:hover{
+  margin-top: 100px;
   transform: scale(1.5);
   width: auto;
 }
 .middle{
   height: 100%;
   width: 100%;
+}
+#Work-Examples{
+  height: 500px;
+}
+
+.aboutMe{
+  background-color: #058ED9;
+  font-size: 30px;
+}
+
+.prow{
+  row-gap: 30px;
+  padding-top: 50px;
+}
+.proj{
+  text-align: center;
+  background-color: lightblue;
+}
+
+.flex-row{
+  margin: auto;
+  justify-content: space-around;
+  text-align: justify;
+  position: sticky;
+  display: inline;
+}
+#one{
+  padding-left: 175px;
 }
 /* CSV
 483d3f,058ed9,f4ebd9,a39a92,77685d

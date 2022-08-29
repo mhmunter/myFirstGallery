@@ -12,7 +12,3 @@ code {
     monospace;
 }
 
-.grow:hover{
-  transform: scale(1.5);
-  width: auto;
-}

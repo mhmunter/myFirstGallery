@@ -7,8 +7,8 @@ return (
        
     
     
-    <div class="footer">
-    <div class="navLinks">
+    <div className="footer">
+    <div className="navLinks">
       <h2 id="Contact-Information">Contact Information:</h2>
       
        
