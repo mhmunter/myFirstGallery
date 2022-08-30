@@ -5,7 +5,9 @@ function Navigation({setPage}) {
   return (
     
     <header className="footer">
-      
+      <div className='Mark'>
+        Mark Munter's Portfolio
+      </div>
       <nav>
         <ul className="flex-row" >
           <lu className="mx-2">

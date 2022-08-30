@@ -115,6 +115,11 @@ font-size: larger;
   font-size: 30px;
 }
 
+.Mark{
+  font-size: 20px;
+  font-style: oblique;
+  text-decoration-line:underline;
+}
 
 .pRow2{
   align-items: flex-start;
