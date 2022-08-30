@@ -1,7 +1,6 @@
 import React, { useState } from "react";
 import "./App.css";
-import Footer from "./components/Footer";
-// import Form from './components/Form';
+import Footer from "./components/Footer"; import Form from './components/Form';
 import Header from "./components/Header";
 import Home from "./components/Home";
 import Navigation from "./components/Navigation";

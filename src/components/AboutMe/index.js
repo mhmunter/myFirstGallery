@@ -1,6 +1,8 @@
 import React from "react";
 
+
 function AboutMe() {
+    const smallimg = { width: "100px", height: "220px" } 
   return (
     <div className="aboutMe">
       <h1>About Me</h1>
@@ -21,33 +23,42 @@ function AboutMe() {
         passion for learning, searching for answers, and finding the truth in
         all things.
       </p>
-      <div className="pRow">
+      <div className="pRow2">
+      <article className="grow" id="p2">
         <img
           src={require("../../image/IMG_0194.PNG")}
-          alt="My image"
-          style={{ width: "230px", height: "320px" }}
+          alt="My Son's image"
+          style={{smallimg}}
         ></img>
-
+</article>
+<article className="grow" id="p2">
         <img
           src={require("../../image/IMG_0196.PNG")}
-          alt="My image"
-          style={{ width: "260px", height: "320px" }}
+          alt="Book quote"
+          style={{smallimg}}
         ></img>
+        </article>
+        <article className="grow" id="p2">
         <img
           src={require("../../image/IMG_0195.PNG")}
           alt="My image"
-          style={{ width: "230px", height: "320px" }}
+          style={{smallimg}}
         ></img>
+        </article>
+        <article className="grow" id="p2">
         <img
           src={require("../../image/IMG_0199.PNG")}
-          alt="My image"
-          style={{ width: "240px", height: "320px" }}
+          alt="Recipe"
+          style={{smallimg}}
         ></img>
+        </article>
+        <article className="grow" id="p2">
         <img
           src={require("../../image/IMG_0198.PNG")}
-          alt="My image"
-          style={{ width: "230px", height: "320px" }}
+          alt="My Family"
+          style={{width: "287px", height: "220px"}}
         ></img>
+        </article>
       </div>
     </div>
   );

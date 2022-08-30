@@ -1,7 +1,8 @@
 import React from 'react'
+const smallimg = {width:"230px",height:"120px"}
 //<link rel="stylesheet" href="./index.css"></link>
 function Projects(){
-const smallimg = {width:"230px",height:"120px"}
+
 return (
     <div>
         <h1>Projects</h1>

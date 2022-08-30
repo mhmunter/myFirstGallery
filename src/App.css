@@ -98,7 +98,7 @@ font-size: larger;
 }
 
 .grow:hover{
-  margin-top: 100px;
+  flex-wrap: wrap;
   transform: scale(1.5);
   width: auto;
 }
@@ -115,8 +115,11 @@ font-size: larger;
   font-size: 30px;
 }
 
-.prow{
-  row-gap: 30px;
+
+.pRow2{
+  align-items: flex-start;
+  /* row-gap: 30px; */
+  display: flex;
   padding-top: 50px;
 }
 .proj{
