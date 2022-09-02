@@ -21,8 +21,8 @@ Install dependencies with npm install.
 * Express.js
 * Bootstrap
 
- ## Link to live application, deployed on Heroku
-https://radar-menu.herokuapp.com/
+ ## Link to live application, deployed on Github pages
+https://mhmunter.github.io/myFirstGallery/
 ## Github repostitory 
 https://github.com/mhmunter/myFirstGallery
 
