@@ -24,7 +24,7 @@ Install dependencies with npm install.
  ## Link to live application, deployed on Heroku
 https://radar-menu.herokuapp.com/
 ## Github repostitory 
-https://github.com/rtleib/radar-menu
+https://github.com/mhmunter/myFirstGallery
 
 
 
