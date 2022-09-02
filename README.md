@@ -1,31 +1,33 @@
-# Getting Started with Create React App
+# myFirstGallery 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Desciption
+This page highllights some of my biggest programs.
 
-## Available Scripts
+## Motivation
+To give perspective empolyeers a cahnce to see my ablities in action
 
-In the project directory, you can run:
+## How to install 
 
-### `npm start`
+Click on the page link.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Git clone the code into your machines local code editor
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Install dependencies with npm install. 
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Technologies 
+* React
+* Node.js
+* Express.js
+* Bootstrap
 
-### `npm run build`
+ ## Link to live application, deployed on Heroku
+https://radar-menu.herokuapp.com/
+## Github repostitory 
+https://github.com/rtleib/radar-menu
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+
 
