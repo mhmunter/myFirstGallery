@@ -17,7 +17,7 @@ return (
       </a>
       </article>
      <article className="grow" id="p2">
-    <a href="https://trailblazer.me/id?lang=en_US/">
+    <a href="https://trailhead.salesforce.com/today/">
       
       <img src={require("../../image/Trail.png")} alt="First project sceenShot" style={smallimg}>
       </img>
