@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/myFirstGallery/static/css/main.96a03086.css",
+    "main.js": "/myFirstGallery/static/js/main.1f875f04.js",
+    "static/media/IMG_0195.PNG": "/myFirstGallery/static/media/IMG_0195.9d6ab7ef416e2007575f.PNG",
+    "static/media/IMG_0199.PNG": "/myFirstGallery/static/media/IMG_0199.5cc19d3cf674e3da01e7.PNG",
+    "static/media/IMG_0194.PNG": "/myFirstGallery/static/media/IMG_0194.d4c6442bcaa61615ffd2.PNG",
+    "static/media/IMG_0196.PNG": "/myFirstGallery/static/media/IMG_0196.b77d6ef64c17ae6b87f4.PNG",
+    "static/media/2mbarbq.png": "/myFirstGallery/static/media/2mbarbq.3eb4a088ec143bc92c6d.png",
+    "static/media/IMG_0198.PNG": "/myFirstGallery/static/media/IMG_0198.bb8012b80731a1b9d3b4.PNG",
+    "static/media/projectThree.png": "/myFirstGallery/static/media/projectThree.f4e6cfbcbb2e1da65894.png",
+    "static/media/Trail.png": "/myFirstGallery/static/media/Trail.d5e865fa128791a22d56.png",
+    "static/media/Screenshot1.png": "/myFirstGallery/static/media/Screenshot1.a0ef632456e849bbd309.png",
+    "static/media/Screenshot 2022-08-26 093132.png": "/myFirstGallery/static/media/Screenshot 2022-08-26 093132.3909ab140dc958f57e7e.png",
+    "static/media/markbus.png": "/myFirstGallery/static/media/markbus.4f76047f8c817cb24015.png",
+    "index.html": "/myFirstGallery/index.html",
+    "main.96a03086.css.map": "/myFirstGallery/static/css/main.96a03086.css.map",
+    "main.1f875f04.js.map": "/myFirstGallery/static/js/main.1f875f04.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96a03086.css",
+    "static/js/main.1f875f04.js"
+  ]
+}
