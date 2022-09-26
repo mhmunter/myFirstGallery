@@ -7,8 +7,7 @@ function Home(){
 return (
     <div>
         <h1>Home</h1>
-        <img src={require("../../image/Screenshot 2022-08-26 093132.png")} alt="Mark's Resume" style={{width:"50%",height:"50%"}}>
-  </img>
+        <a href="https://1drv.ms/w/s!Au_BFqzH5pX6jBKB9HvMa-witlVn?e=YOmz1Z">Link to Resume here!</a>
         
   <div className="aboutMe">
       <h1>About Me</h1>

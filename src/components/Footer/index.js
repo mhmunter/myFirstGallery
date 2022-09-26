@@ -16,6 +16,9 @@ return (
 
 
         <a id="git" href="https://github.com/mhmunter">Github</a>
+
+
+        <a id="git" href="https://www.linkedin.com/in/mark-munter-96568997/">LinkedIn</a>
         
 
         <a is="pn" href="tel:210-422-8004">Phone Number: (210) 422-8004</a>
