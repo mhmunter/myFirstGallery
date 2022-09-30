@@ -38,6 +38,42 @@ return (
         </img>
         </a>
       </article>
+
+      <article className="grow" id="p2">
+      <a href="https://github.com/mhmunter/EmployeeGeneratorAlphaNumaric">
+        
+        <img src={require("../../image/employee.jpg")} alt="group project 2" style={smallimg}>
+        </img>
+        </a>
+      </article>
+      
+      
+      <article className="grow" id="p2">
+      <a href="https://mighty-castle-61751.herokuapp.com/">
+        
+        <img src={require("../../image/myblogyblogPIC.png")} alt="group project 2" style={smallimg}>
+        </img>
+        </a>
+      </article>
+
+
+      <article className="grow" id="p2">
+      <a href="https://salty-forest-09169.herokuapp.com/">
+        
+        <img src={require("../../image/budget.PNG.jpg")} alt="group project 2" style={smallimg}>
+        </img>
+        </a>
+      </article>
+
+
+      <article className="grow" id="p2">
+      <a href="https://github.com/mhmunter/Lucky13_e-commerce">
+        
+        <img src={require("../../image/SQL.jpg")} alt="group project 2" style={smallimg}>
+        </img>
+        </a>
+      </article>
+      
   </section>
   </div>
 );

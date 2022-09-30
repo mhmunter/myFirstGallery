@@ -51,7 +51,7 @@ body{
 } */
 
 /*mid images*/
-.hero img{
+.hero{
   background-size: cover;
   display: flex;
   justify-content: space-between;
@@ -63,12 +63,16 @@ body{
 }
 
 .hero{
-display: flex;
-height:100%;
-width: 100%;
+  display: flex;
+  flex-wrap: wrap; 
+width: 90vw;
 background-color: lightblue;
-justify-content: space-between;
+justify-content: space-between; 
+min-height: 90vh;
+  
+  
 }
+
 
 
 .navLinks{
