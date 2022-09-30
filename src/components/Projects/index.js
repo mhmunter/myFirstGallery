@@ -42,7 +42,7 @@ return (
       <article className="grow" id="p2">
       <a href="https://github.com/mhmunter/EmployeeGeneratorAlphaNumaric">
         
-        <img src={require("../../image/employee.jpg")} alt="group project 2" style={smallimg}>
+        <img src={require("../../image/TeamTrac.jpg")} alt="group project 2" style={smallimg}>
         </img>
         </a>
       </article>
