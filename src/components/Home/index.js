@@ -19,7 +19,7 @@ return (
       ></img>
       <p>
         {" "}
-        I was born and raised in San Antonio Texas. My family is well known in
+        I was born and raised in San Antonio, Texas. My family is well known in
         the local music and art communities. I earned a B.A. in History with a
         minor in Geography. My wife is also a software engineer, and my son is
         currently in kindergarten. I've spent the majority of my professional
