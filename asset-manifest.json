@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/myFirstGallery/static/css/main.96a03086.css",
-    "main.js": "/myFirstGallery/static/js/main.1f875f04.js",
+    "main.css": "/myFirstGallery/static/css/main.a9ba27de.css",
+    "main.js": "/myFirstGallery/static/js/main.6646c21d.js",
     "static/media/IMG_0195.PNG": "/myFirstGallery/static/media/IMG_0195.9d6ab7ef416e2007575f.PNG",
     "static/media/IMG_0199.PNG": "/myFirstGallery/static/media/IMG_0199.5cc19d3cf674e3da01e7.PNG",
     "static/media/IMG_0194.PNG": "/myFirstGallery/static/media/IMG_0194.d4c6442bcaa61615ffd2.PNG",
@@ -10,15 +10,19 @@
     "static/media/IMG_0198.PNG": "/myFirstGallery/static/media/IMG_0198.bb8012b80731a1b9d3b4.PNG",
     "static/media/projectThree.png": "/myFirstGallery/static/media/projectThree.f4e6cfbcbb2e1da65894.png",
     "static/media/Trail.png": "/myFirstGallery/static/media/Trail.d5e865fa128791a22d56.png",
+    "static/media/SQL.jpg": "/myFirstGallery/static/media/SQL.a39c9b4ed409aaed4075.jpg",
     "static/media/Screenshot1.png": "/myFirstGallery/static/media/Screenshot1.a0ef632456e849bbd309.png",
+    "static/media/budget.PNG.jpg": "/myFirstGallery/static/media/budget.PNG.f9ec16689d6e75e894ca.jpg",
     "static/media/Screenshot 2022-08-26 093132.png": "/myFirstGallery/static/media/Screenshot 2022-08-26 093132.3909ab140dc958f57e7e.png",
+    "static/media/myblogyblogPIC.png": "/myFirstGallery/static/media/myblogyblogPIC.eb7e462f72813559584c.png",
+    "static/media/TeamTrac.jpg": "/myFirstGallery/static/media/TeamTrac.154a301180a5fd7fb0aa.jpg",
     "static/media/markbus.png": "/myFirstGallery/static/media/markbus.4f76047f8c817cb24015.png",
     "index.html": "/myFirstGallery/index.html",
-    "main.96a03086.css.map": "/myFirstGallery/static/css/main.96a03086.css.map",
-    "main.1f875f04.js.map": "/myFirstGallery/static/js/main.1f875f04.js.map"
+    "main.a9ba27de.css.map": "/myFirstGallery/static/css/main.a9ba27de.css.map",
+    "main.6646c21d.js.map": "/myFirstGallery/static/js/main.6646c21d.js.map"
   },
   "entrypoints": [
-    "static/css/main.96a03086.css",
-    "static/js/main.1f875f04.js"
+    "static/css/main.a9ba27de.css",
+    "static/js/main.6646c21d.js"
   ]
 }
