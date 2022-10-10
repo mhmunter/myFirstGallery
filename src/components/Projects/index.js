@@ -39,6 +39,7 @@ return (
         </a>
       </article>
 
+      <section id= "Work-Examples" className="hero">
       <article className="grow" id="p2">
       <a href="https://github.com/mhmunter/EmployeeGeneratorAlphaNumaric">
         
@@ -73,7 +74,7 @@ return (
         </img>
         </a>
       </article>
-      
+   </section>   
   </section>
   </div>
 );
