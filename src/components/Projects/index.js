@@ -39,25 +39,6 @@ return (
         </a>
       </article>
 
-      <section id= "Work-Examples" className="hero">
-      <article className="grow" id="p2">
-      <a href="https://github.com/mhmunter/EmployeeGeneratorAlphaNumaric">
-        
-        <img src={require("../../image/TeamTrac.jpg")} alt="group project 2" style={smallimg}>
-        </img>
-        </a>
-      </article>
-      
-      
-      <article className="grow" id="p2">
-      <a href="https://mighty-castle-61751.herokuapp.com/">
-        
-        <img src={require("../../image/myblogyblogPIC.png")} alt="group project 2" style={smallimg}>
-        </img>
-        </a>
-      </article>
-
-
       <article className="grow" id="p2">
       <a href="https://salty-forest-09169.herokuapp.com/">
         
@@ -66,7 +47,6 @@ return (
         </a>
       </article>
 
-
       <article className="grow" id="p2">
       <a href="https://github.com/mhmunter/Lucky13_e-commerce">
         
@@ -74,9 +54,26 @@ return (
         </img>
         </a>
       </article>
-   </section>   
+
+      <article className="grow" id="p2">
+      <a href="https://mighty-castle-61751.herokuapp.com/">
+        
+        <img src={require("../../image/myblogyblogPIC.png")} alt="group project 2" style={smallimg}>
+        </img>
+        </a>
+      </article>
+
+      <article className="grow" id="p2">
+      <a href="https://github.com/mhmunter/EmployeeGeneratorAlphaNumaric">
+        
+        <img src={require("../../image/TeamTrac.jpg")} alt="group project 2" style={smallimg}>
+        </img>
+        </a>
+      </article>
+
   </section>
   </div>
+  
 );
 }
 

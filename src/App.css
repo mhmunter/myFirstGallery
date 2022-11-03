@@ -94,17 +94,20 @@ font-size: larger;
   justify-content: space-around;
   padding: 30px 35px;
   border-top: 1px solid rgb(97, 95, 95);
+  width: 100vw;
 }
 
 .footer-author{
   font-size: 13px;
   color: #058ED9;
+  width: 100vw;
 }
 
 .grow:hover{
   flex-wrap: wrap;
   transform: scale(1.5);
   width: auto;
+  height: auto;
 }
 .middle{
   height: 100%;
