@@ -67,7 +67,7 @@ return (
    
     <div className='prow'>
     <article  id="p2" id="Work-Examples">
-    <a className="grow" href=" https://mhmunter.github.io/hestia/">
+    <a className="grow" href="https://github.com/mhmunter/hestia">
       
       <img src={require("../../image/Screenshot1.png")} alt="First group project sceenShot" style={{width:"330px",height:"220px"}}>
       </img>
@@ -85,7 +85,7 @@ return (
     </div>
     <div className='prow'>
     <article className="grow" id="p2">
-      <a href="https://radar-menu.herokuapp.com/">
+      <a href="https://github.com/mhmunter/radar-menu">
         
         <img src={require("../../image/2mbarbq.png")} alt="group project 2" style={smallimg}>
         </img>
@@ -94,7 +94,7 @@ return (
       </div>
       <div className='prow'>
       <article className="grow" id="p2">
-      <a href="https://immense-ocean-63778.herokuapp.com/">
+      <a href="https://github.com/mhmunter/jobSearchEngineGraphQL">
         
         <img src={require("../../image/projectThree.png")} alt="group project 2" style={smallimg}>
         </img>

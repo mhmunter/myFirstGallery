@@ -10,7 +10,7 @@ return (
     <section id= "Work-Examples" className="hero">
     
     <article  id="p2" id="Work-Examples">
-    <a className="grow" href=" https://mhmunter.github.io/hestia/">
+    <a className="grow" href=" https://github.com/mhmunter/hestia">
       
       <img src={require("../../image/Screenshot1.png")} alt="First group project sceenShot" style={{width:"330px",height:"220px"}}>
       </img>
@@ -24,7 +24,7 @@ return (
       </a>
     </article>
     <article className="grow" id="p2">
-      <a href="https://radar-menu.herokuapp.com/">
+      <a href="https://github.com/mhmunter/radar-menu">
         
         <img src={require("../../image/2mbarbq.png")} alt="group project 2" style={smallimg}>
         </img>
@@ -32,7 +32,7 @@ return (
       </article>
 
       <article className="grow" id="p2">
-      <a href="https://immense-ocean-63778.herokuapp.com/">
+      <a href="https://github.com/mhmunter/jobSearchEngineGraphQL">
         
         <img src={require("../../image/projectThree.png")} alt="group project 2" style={smallimg}>
         </img>
@@ -40,7 +40,7 @@ return (
       </article>
 
       <article className="grow" id="p2">
-      <a href="https://salty-forest-09169.herokuapp.com/">
+      <a href="https://github.com/mhmunter/myMoneyProblems">
         
         <img src={require("../../image/budget.PNG.jpg")} alt="group project 2" style={smallimg}>
         </img>
@@ -56,7 +56,7 @@ return (
       </article>
 
       <article className="grow" id="p2">
-      <a href="https://mighty-castle-61751.herokuapp.com/">
+      <a href="https://github.com/mhmunter/My-blogyBlog">
         
         <img src={require("../../image/myblogyblogPIC.png")} alt="group project 2" style={smallimg}>
         </img>
