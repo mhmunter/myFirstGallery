@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/myFirstGallery/static/css/main.bcba6dd3.css",
-    "main.js": "/myFirstGallery/static/js/main.0269b729.js",
+    "main.css": "/myFirstGallery/static/css/main.37cb7973.css",
+    "main.js": "/myFirstGallery/static/js/main.08943848.js",
     "static/media/IMG_0195.PNG": "/myFirstGallery/static/media/IMG_0195.9d6ab7ef416e2007575f.PNG",
     "static/media/IMG_0199.PNG": "/myFirstGallery/static/media/IMG_0199.5cc19d3cf674e3da01e7.PNG",
     "static/media/IMG_0194.PNG": "/myFirstGallery/static/media/IMG_0194.d4c6442bcaa61615ffd2.PNG",
@@ -18,11 +18,11 @@
     "static/media/TeamTrac.jpg": "/myFirstGallery/static/media/TeamTrac.154a301180a5fd7fb0aa.jpg",
     "static/media/markbus.png": "/myFirstGallery/static/media/markbus.4f76047f8c817cb24015.png",
     "index.html": "/myFirstGallery/index.html",
-    "main.bcba6dd3.css.map": "/myFirstGallery/static/css/main.bcba6dd3.css.map",
-    "main.0269b729.js.map": "/myFirstGallery/static/js/main.0269b729.js.map"
+    "main.37cb7973.css.map": "/myFirstGallery/static/css/main.37cb7973.css.map",
+    "main.08943848.js.map": "/myFirstGallery/static/js/main.08943848.js.map"
   },
   "entrypoints": [
-    "static/css/main.bcba6dd3.css",
-    "static/js/main.0269b729.js"
+    "static/css/main.37cb7973.css",
+    "static/js/main.08943848.js"
   ]
 }
